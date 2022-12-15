@@ -11,7 +11,7 @@ public class car extends vehicle {
 
 	public static void main(String args[]) {
 		vehicle vch = new car(4, 20);
-		vehicle vch2 = new vehicle(4, 20);
+		
 	}
 
 }
